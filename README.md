@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently learning on how to use GitHub.
+- 🌱 I’m currently learning Python, especially for Geospatial Analysis.
 
 <!--
 **dandyaditya/dandyaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
